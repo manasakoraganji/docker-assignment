@@ -19,4 +19,4 @@ Expected output is the connection details mentioned in the config file.
 2. Clone your fork locally. 
 3. Create new branch to do assignment changes
 4. Push the changes to remote repo
-5. Raise a PullRequest on the Upstream repository master branch.
+5. Raise a PullRequest on the Upstream repository main branch.
