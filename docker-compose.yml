@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  my_python_app:
+    image: python_image:latest
+    # Run the container in detached mode (background)
+    # Replace the command with your specific Python script if needed
+    command: python3 src/assignment.py
